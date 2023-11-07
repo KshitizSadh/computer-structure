@@ -167,7 +167,42 @@ RAID is used for:
  4. **ZERO TOUCH SECURITY**- Zero touch IT can be used to deploy enhanced cybersecurity measures on employee devices from day one. Rather than manually installing antivirus software, for example, zero touch can make this step standard practice for new device setup, which helps prevent security threats like data breaches and malware attacks.
  5. **SITE-TO-SITE VPN**-A site-to-site virtual private network (VPN) refers to a connection set up between multiple networks. This could be a corporate network where multiple offices work in conjunction with each other or a branch office network with a central office and multiple branch locations.
 
- ![image](https://github.com/KshitizSadh/computer-structure/assets/142923024/44868d6b-bf06-4c5b-84d4-e523336aa82b)
+ ![image](https://github.com/KshitizSadh/computer-structure/assets/142923024/44868d6b-bf06-4c5b-84d4-e523336aa82b)   
+ 6. **CLIENT-TO-SITE VPN**-In a Client-to-Site Virtual Private Network (VPN) connection, clients from the Internet can connect to the server to access the corporate network or Local Area Network (LAN) behind the server but still maintains the security of the network and its resources.  
+ ![image](https://github.com/KshitizSadh/computer-structure/assets/142923024/a006b688-d25f-4adf-a252-ea38f366cc9e)  
+ 7.**Security Compliance**-Security compliance management is that set of policies, procedures, and other internal controls that an organization uses to fulfill its regulatory requirements for data privacy and protection.  
+ # LOAD BALANCER
+ | L4 LOAD BALANCER | L7 LOAD BALCANCER |
+ |------------------|-------------------|
+ |L4 Load Balancer (Transport Layer Load Balancer): L4 load balancers operate at the transport layer (Layer 4) of the OSI model. They primarily focus on distributing network traffic based on information available in the transport layer protocols such as IP addresses and port numbers. L4 load balancers are typically transparent to the application layer protocols and don’t inspect the content of network packets.|L7 Load Balancer (Application Layer Load Balancer): L7 load balancers operate at the application layer (Layer 7) of the OSI model. They have the ability to understand and interpret the content of network packets, including application layer protocols such as HTTP, HTTPS, SMTP, or FTP. L7 load balancers can make routing decisions based on application-specific data, enabling advanced traffic management and application-aware load balancing.|  
+
+ - **Load Balancing Algorithms**:A load balancer is a software or hardware device that keeps any one server from becoming overloaded. A load balancing algorithm is the logic that a load balancer uses to distribute network traffic between servers (an algorithm is a set of predefined rules.
+    - *Dynamic load balancing algorithms*
+    - *Static load balancing algorithms*
+ - **REVERSE PROXY**:  A reverse proxy is a server that sits in front of web servers and forwards client (e.g. web browser) requests to those web servers. Reverse proxies are typically implemented to help increase security, performance, and reliability.
+   | EXAMPLES |
+   |--------------|
+   |HAPROXY, NGINX , APACHE , Træfɪk |
+ - **FORWARD PROXY**: A forward proxy is an intermediary that sits between one or more user devices and the internet. Instead of validating a client request and sending it directly to a web server, a forward proxy server evaluates the request, takes any needed actions, and routes the request to the destination on the client's behalf.
+# HIGH AVAILBLITY
+1.**Distributed Systems(clusters)**- A distributed system is simply any environment where multiple computers or devices are working on a variety of tasks and components, all spread across a network.  
+
+![image](https://github.com/KshitizSadh/computer-structure/assets/142923024/9c313886-c577-46ee-b5e4-be32527f82e7)
+
+
+2.**Fall-Over Mechanisms**- the transfer of workload from a primary system to a secondary system in the event of a failure on the primary system. When workload has been transferred like this, the secondary system is said to have taken over the workload of the failed primary system.  
+
+|  Horizontal Scaling | Vertical Scaling |
+|---------------------|------------------|
+|When new server racks are added to the existing system to meet the higher expectation, it is known as horizontal scaling. | When new resources are added to the existing system to meet the expectation, it is known as vertical scaling. | 
+
+![image](https://github.com/KshitizSadh/computer-structure/assets/142923024/dbd9ffe5-c039-495b-9a34-39bdf992d91c)
+
+
+
+
+ 
+ 
 
 
 
