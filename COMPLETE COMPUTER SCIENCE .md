@@ -156,8 +156,16 @@ RAID is used for:
 ![image](https://github.com/KshitizSadh/computer-structure/assets/142923024/ac194e04-8d1a-4f0d-aaaa-0c657dbc961b)
 
 11. **DISKIOPS**- IOPS, pronounced “eye ops,” is the measurement of the number of input/output operations a storage device can complete within a single second. It's a standard performance benchmark for solid-state drives, hard drives, flash drives, and network attached storage (NAS) devices. The IOP needs to be fast to avoid latency in servers.
-12. **Key-
-
+12. **Key- Value stores**- A key-value store, or key-value database is a simple database that uses an associative array (think of a map or dictionary) as the fundamental data model where each key is associated with one and only one value in a collection. This relationship is referred to as a key-value pair.
+    13. **NFS**-Network File System (NFS) is a distributed file system protocol originally developed by Sun Microsystems (Sun) in 1984,[1] allowing a user on a client computer to access files over a computer network much like local storage is accessed. NFS, like many other protocols, builds on the Open Network Computing Remote Procedure Call (ONC RPC) system. NFS is an open IETF standard defined in a Request for Comments (RFC), allowing anyone to implement the protocol.
+# security
+  1. **SSL Certificate** 
+      | SINGLE | MUTUAL |
+      | ------ | ------- |
+ 2. **PKL infrastructure**-A public key infrastructure (PKI) is a set of roles, policies, hardware, software and procedures needed to create, manage, distribute, use, store and revoke digital certificates and manage public-key encryption. The purpose of a PKI is to facilitate the secure electronic transfer of information for a range of network activities such as e-commerce, internet banking and confidential email. It is required for activities where simple passwords are an inadequate authentication method and more rigorous proof is required to confirm the identity of the parties involved in the communication and to validate the information being transferred.
+ 3. **ZERO TRUST SECURITY**- Zero Trust security means that no one is trusted by default from inside or outside the network, and verification is required from everyone trying to gain access to resources on the network. This added layer of security has been shown to prevent data breaches 
+ 4. **ZERO TOUCH SECURITY**- Zero touch IT can be used to deploy enhanced cybersecurity measures on employee devices from day one. Rather than manually installing antivirus software, for example, zero touch can make this step standard practice for new device setup, which helps prevent security threats like data breaches and malware attacks.
+ 5. **SITE-TO-SITE VPN**-A site-to-site virtual private network (VPN) refers to a connection set up between multiple networks. This could be a corporate network where multiple offices work in conjunction with each other or a branch office network with a central office and multiple branch locations.
 
 
 
