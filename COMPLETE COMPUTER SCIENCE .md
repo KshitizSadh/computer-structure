@@ -166,6 +166,8 @@ RAID is used for:
  3. **ZERO TRUST SECURITY**- Zero Trust security means that no one is trusted by default from inside or outside the network, and verification is required from everyone trying to gain access to resources on the network. This added layer of security has been shown to prevent data breaches 
  4. **ZERO TOUCH SECURITY**- Zero touch IT can be used to deploy enhanced cybersecurity measures on employee devices from day one. Rather than manually installing antivirus software, for example, zero touch can make this step standard practice for new device setup, which helps prevent security threats like data breaches and malware attacks.
  5. **SITE-TO-SITE VPN**-A site-to-site virtual private network (VPN) refers to a connection set up between multiple networks. This could be a corporate network where multiple offices work in conjunction with each other or a branch office network with a central office and multiple branch locations.
+   ![image](https://github.com/KshitizSadh/computer-structure/assets/142923024/44868d6b-bf06-4c5b-84d4-e523336aa82b)
+
 
 
 
