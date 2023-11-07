@@ -49,6 +49,10 @@
 ![image](https://github.com/KshitizSadh/computer-structure/assets/142923024/b9e2fa42-b450-4377-9bc6-df865bfeb8ab) 
 
 4. **subnetting** = One goal of a subnet is to split a large network into a grouping of smaller, interconnected networks to help minimize traffic. This way, traffic doesn't have to flow through unnecessary routes, increasing network speeds. Subnetting, the segmentation of a network address space, improves address allocation efficiency
+5. **SR-IOV** = The single root I/O virtualization (SR-IOV) interface is an extension to the PCI Express (PCIe) specification. SR-IOV allows a device, such as a network adapter, to separate access to its resources among various PCIe hardware functions. These functions consist of the following types: A PCIe Physical Function (PF).
+
+   ![image](https://github.com/KshitizSadh/computer-structure/assets/142923024/902b51c3-7c3b-4012-b8aa-1613f2be2b0c)
+
 
 
 
