@@ -196,6 +196,9 @@ RAID is used for:
 |---------------------|------------------|
 |When new server racks are added to the existing system to meet the higher expectation, it is known as horizontal scaling. | When new resources are added to the existing system to meet the expectation, it is known as vertical scaling. | 
 
+![image](https://github.com/KshitizSadh/computer-structure/assets/142923024/4a299c20-3cc2-4de2-8a31-bba3ffb5e1e2)
+
+
 
 
 
